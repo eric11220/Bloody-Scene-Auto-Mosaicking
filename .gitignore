@@ -1,0 +1,8 @@
+demo.mov
+caffe/
+googleImage_php/
+trained_models/
+fine_tuning/demo/video
+fine_tuning/demo/processed_videos
+fine_tuning/demo/masque
+fine_tuning/demo/frames
